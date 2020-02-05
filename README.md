@@ -1,5 +1,4 @@
 # Git/Github Classwork 1
-### Checking to see if I can grade using a new application!
 In this classwork you will practice using Git/Github from the terminal along with the Google Chrome development console.
 
 1. Change to the directory `~/CodeSchool`
